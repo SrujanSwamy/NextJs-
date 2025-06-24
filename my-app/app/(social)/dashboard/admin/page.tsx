@@ -1,10 +1,10 @@
 import React from 'react'
 
 const page = async  () => {
-    throw new Error ("error");
+    //throw new Error ("error");
 
   return (
-    <div>page</div>
+    <div>Admin page</div>
   )
 }
 
